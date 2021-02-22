@@ -1,9 +1,23 @@
 # AI-quant-Lab
 resources in the fields of artificial intelligence and quantitative finance
-- papers
-- 
+- Papers
+- Open codes
+- Books
+- Data Sources
 
 ## Papers
+
+### Deep Learning
+* [A deep learning framework for financial time series using stacked autoencoders and longshort term memory](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180944&type=printable)
+
+### Reinforcement Learning
+* [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/a/aa/07407387.pdf)
+
+### Recurrent Neural Network & Long Short-Term Memory
+
+### Graph Neural Network
+* [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/abs/1909.10660)
+* [Knowledge-Driven Event Embedding for Stock Prediction](https://www.aclweb.org/anthology/C16-1201)
 
 ## Open Codes
 
