@@ -14,10 +14,16 @@ resources in the fields of artificial intelligence and quantitative finance
 * [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/a/aa/07407387.pdf)
 
 ### Recurrent Neural Network & Long Short-Term Memory
+* [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns_2017_KDD](http://www.eecs.ucf.edu/~gqi/publications/kdd2017_stock.pdf) [\[code\]](model/sfm.py)
+
 
 ### Graph Neural Network
 * [Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis](https://arxiv.org/abs/1909.10660)
 * [Knowledge-Driven Event Embedding for Stock Prediction](https://www.aclweb.org/anthology/C16-1201)
+
+### Indicators-based
+* [Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding_2019_KDD](https://www.kdd.org/kdd2019/accepted-papers/view/individualized-indicator-for-all-stock-wise-technical-indicator-optimizatio)
+* [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction_2019_KDD](https://www.kdd.org/kdd2019/accepted-papers/view/investment-behaviors-can-tell-what-inside-exploring-stock-intrinsic-propert)
 
 ## Open Codes
 
