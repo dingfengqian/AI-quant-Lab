@@ -8,7 +8,7 @@ resources in the fields of artificial intelligence and quantitative finance
 ## Papers
 
 ### Deep Learning
-* [A Deep Learning ramework for Financial Time Series using Stacked Autoencoders and Longshort Term Memory](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180944&type=printable)
+* [A Deep Learning Framework for Financial Time Series using Stacked Autoencoders and Longshort Term Memory](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0180944&type=printable)
 
 ### Reinforcement Learning
 * [Deep Direct Reinforcement Learning for Financial Signal Representation and Trading](http://cslt.riit.tsinghua.edu.cn/mediawiki/images/a/aa/07407387.pdf)
